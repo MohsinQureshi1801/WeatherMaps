@@ -19,7 +19,7 @@ enum APIEndPointName: String
 {
     case weather = ""
 }
-
+//New commit
 
 class APIManager {
     
